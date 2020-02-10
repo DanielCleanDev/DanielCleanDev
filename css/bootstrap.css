@@ -6692,6 +6692,10 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-black {
+  background-color: #000000 !important;
+}
+
 .bg-primary {
   background-color: #007bff !important;
 }
@@ -8368,10 +8372,20 @@ button.bg-dark:focus {
   padding: 3rem !important;
 }
 
+.p-10 {
+  padding: 6rem !important;
+}
+
 .pt-5,
 .py-5 {
   padding-top: 3rem !important;
 }
+
+.pt-10,
+.py-10 {
+  padding-top: 6rem !important;
+}
+
 
 .pr-5,
 .px-5 {
@@ -8381,6 +8395,11 @@ button.bg-dark:focus {
 .pb-5,
 .py-5 {
   padding-bottom: 3rem !important;
+}
+
+.pb-10,
+.py-10 {
+  padding-bottom: 6rem !important;
 }
 
 .pl-5,
