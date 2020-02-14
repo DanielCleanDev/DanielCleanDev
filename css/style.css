@@ -1,0 +1,39 @@
+.bg-footer {
+    background-color: #11abb2 !important;
+}
+
+.color-text-white {
+    color: white;
+}
+
+.container-flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bg-slider-front {
+    background-image: url("../img/19-1024x426.png");
+    background-size: cover;
+}
+
+
+.bg-slider-devops {
+    background-image: url("../img/19-1024x426.png");
+    background-size: cover;
+}
+
+.bg-slider-back {
+    background-image: url("../img/24-1024x421.png");
+    background-size: cover;
+
+}
+
+
+.bg-slider-home {
+    background-image: url("../img/2-1024x367.png");
+    background-size: cover;
+    height: 600px;
+}
+
